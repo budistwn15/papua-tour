@@ -1,6 +1,7 @@
+/* Tablet */
 
 @media (max-width:1000px) {
-    
+
     /* header */
     .header-list {
         display: none;
@@ -10,8 +11,8 @@
         visibility: visible;
     }
 
-    /* wrapper */
-    
+    /* body */
+
     .wrapper-left {
         width: 100%;
     }
@@ -42,48 +43,55 @@
     }
 }
 
-@media (max-width:670px){
+/* Handphone */
+@media (max-width:670px) {
 
     /* header */
-    .header-list{
+    .header-list {
         display: none;
     }
 
-    .menu-icon{
+    .menu-icon {
         visibility: visible;
     }
 
+    /* body */
     /* wrapper */
-    .wrapper-left{
+    .wrapper-left {
         width: 100%;
     }
-    .wrapper-left img{
+
+    .wrapper-left img {
         display: block;
-        margin:20px auto;
+        margin: 20px auto;
         width: 100%;
     }
-    .wrapper-right{
+
+    .wrapper-right {
         width: 100%;
     }
-    .wrapper-right h2{
+
+    .wrapper-right h2 {
         text-align: center;
         font-size: 24px;
         margin-top: 20px;
     }
-    .btn{
+
+    .btn {
         display: block;
     }
 
     /* populer */
-    .populer-card{
+    .populer-card {
         width: 100%;
     }
 
     /* testimonial */
-    .testimonial-card{
+    .testimonial-card {
         width: 100%;
     }
-    .testimonial-body .img-profile{
+
+    .testimonial-body .img-profile {
         display: none;
     }
 }
