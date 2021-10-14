@@ -60,4 +60,12 @@
     .populer-card{
         width: 100%;
     }
+
+    /* testimonial */
+    .testimonial-card{
+        width: 100%;
+    }
+    .testimonial-body .img-profile{
+        display: none;
+    }
 }
