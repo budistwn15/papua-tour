@@ -94,4 +94,22 @@
     .testimonial-body .img-profile {
         display: none;
     }
+
+    /* contact */
+    .contact{
+        text-align: center;
+    }
+
+    .contact hr{
+        margin:0 auto 30px auto;
+    }
+
+    .contact-left{
+        width: 100%;
+    }
+
+    .btn-submit{
+        display: block;
+        width: 100%;
+    }
 }

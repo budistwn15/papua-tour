@@ -302,3 +302,39 @@ header {
     padding-top: 20px;
     margin: 0 auto;
 }
+
+/* contact */
+.contact {
+    margin: 100px 0;
+}
+
+.contact h2 {
+    padding-top: 50px;
+    color: #000;
+    text-shadow: 1px 1px #fff;
+}
+
+.contact hr {
+    border: 2px solid #01A76A;
+    width: 150px;
+    margin-bottom: 30px;
+}
+
+.contact-left{
+    width: 50%;
+}
+
+input[type=text],input[type=email],textarea{
+    width: 100%;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    padding: 12px;
+    margin: 6px 0 16px 0;
+    box-sizing: border-box;
+    resize: vertical;
+}
+
+.btn-submit {
+    background-color: #01A76A;
+    border: none;
+}
