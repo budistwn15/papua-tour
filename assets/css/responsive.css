@@ -1,7 +1,18 @@
 /* Tablet */
 
-/* wrapper */
 @media (max-width:1000px) {
+    
+    /* header */
+    .header-list {
+        display: none;
+    }
+
+    .menu-icon {
+        visibility: visible;
+    }
+
+    /* wrapper */
+    
     .wrapper-left {
         width: 100%;
     }
@@ -33,9 +44,18 @@
 }
 
 /* Handphone */
-
-/* wrapper */
 @media (max-width:670px){
+
+    /* header */
+    .header-list{
+        display: none;
+    }
+
+    .menu-icon{
+        visibility: visible;
+    }
+
+    /* wrapper */
     .wrapper-left{
         width: 100%;
     }

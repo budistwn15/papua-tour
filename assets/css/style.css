@@ -43,6 +43,13 @@ header {
     width: 200px;
 }
 
+.menu-icon {
+    color: black;
+    float: right;
+    padding: 33px 50px;
+    visibility: hidden;
+}
+
 .header-list {
     float: left;
     padding: 2px 50px;
