@@ -80,7 +80,7 @@ header {
 /* main */
 main{
     padding: 100px 0;
-    background-image: url("../img/bg.png");
+    background-image: url("../img/bg.webp");
     background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
