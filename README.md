@@ -1,6 +1,6 @@
 # Papua Tour
 
-Papua Tour merupakan website untuk mengenalkan wisata apa saja yang ada di Papua.
+Papua Tour adalah travel agent terdepan di Indonesia yang berpengalaman dalam menyediakan berbagai layanan perjalanan wisata yang terpadu. kami memiliki staf yang berpengalaman dan pemandu yang berpengetahuan luas mengenai situs-situs wisata di papua.
 
 ## Tech
 
